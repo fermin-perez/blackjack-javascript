@@ -1,2 +1,5 @@
-# js-blackjack
-Así dejamos el código en la sección 6
+# BLACKJACK
+
+## Pasos a realizar
+
+1. Clonar repositorio `git clone https://github.com/fermin-perez/blackjack-javascript.git`.
